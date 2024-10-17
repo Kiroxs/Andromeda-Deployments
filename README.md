@@ -48,16 +48,18 @@ Estos mensajes ayudan al usuario a entender el estado de la ejecución en todo m
 ## 🤓 Tips para Proxmox VE.
 
 > 💡 **Tip 1**: Para acceder a una VM, puedes dar clic derecho en tu máquina virtual o contenedor LXC, lo que desplegará un menú con varias opciones útiles.
-
+>
 > **Por Ejemplo**:
-
+>
 >![menú](https://i.imgur.com/J3x3K3D.png)
 
 >💡 **Tip 2**: Como se muestra en la imagen anterior, el menú incluye opciones para iniciar, apagar, parar y reiniciar máquinas virtuales o contenedores. Es recomendable
 utilizar la opción de "parar" en lugar de "apagar" para evitar posibles conflictos con procesos en segundo plano y asegurar un cierre más controlado del entorno.
+
 >💡 **Tip 3**: Para eliminar una máquina virtual o un contenedor LXC, primero debes asegurarte que el entorno no está encendido, luego seleccionas el entorno en el panel lateral (click izquierdo) y en el panel superior eliges la opción **Más** y dentro del menú de la misma opción seleccionas eliminar. Es importante purgar de las configuraciones de trabajo y destruir discos sin referencias que le pertenecen al Guest para evitar problemas asociados a configuraciones de entornos que ya no existen.
 Este proyecto se distribuye bajo la licencia MIT.
-
+>
 > **Por Ejemplo**:
 > 
 >![eliminación1](https://i.imgur.com/CgduPLU.png)
+>![eliminación2](https://i.imgur.com/H7zuhux.png)
