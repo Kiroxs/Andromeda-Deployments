@@ -47,6 +47,6 @@ Estos mensajes ayudan al usuario a entender el estado de la ejecución en todo m
 ## 🤓 Tips para Proxmox VE.
 
 > ⚠️ **Tip 1**: Para acceder a una VM, puedes dar clic derecho en tu máquina virtual, lo que desplegará un menú con varias opciones útiles.
-![]([https://cdn.discordapp.com/path-to-image.png](https://cdn.discordapp.com/attachments/1230306796481155103/1296334631213338655/image.png?ex=6711e934&is=671097b4&hm=c5d442952875bc80ad8e723d4e495f41ef6ac582530846efd81057bcf9998d75&))
+![Ejemplo:]([https://cdn.discordapp.com/path-to-image.png](https://cdn.discordapp.com/attachments/1230306796481155103/1296334631213338655/image.png?ex=6711e934&is=671097b4&hm=c5d442952875bc80ad8e723d4e495f41ef6ac582530846efd81057bcf9998d75&))
 
 Este proyecto se distribuye bajo la licencia MIT.
