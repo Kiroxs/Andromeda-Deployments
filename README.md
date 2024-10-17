@@ -47,6 +47,6 @@ Estos mensajes ayudan al usuario a entender el estado de la ejecución en todo m
 ## 🤓 Tips para Proxmox VE.
 
 > ⚠️ **Tip 1**: Para acceder a una VM, puedes dar clic derecho en tu máquina virtual, lo que desplegará un menú con varias opciones útiles.
-![Ejemplo:](https://drive.google.com/file/d/1zQABEMFSu6KPK8BqcACFGUiGUGDeYvLh/view?usp=sharing)
+![Ejemplo:](https://www.dropbox.com/scl/fi/8z3dcx4uqra9h7abvg4ne/Tutorial_Proxmox.png?rlkey=ydvssjx846jmtuuy0ygypiurv&st=6rxpwbi6&dl=0)
 
 Este proyecto se distribuye bajo la licencia MIT.
