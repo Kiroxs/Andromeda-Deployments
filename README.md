@@ -27,8 +27,12 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
 - Conexión a internet para la descarga de imágenes o ISOs
 
 ## 🛠️ Uso
-
-1. Ejecutar el script con permisos de root.
+1.Descargar el script Mediante la consola de Proxmox VE.
+2. Ejecutar el script con permisos de root.  
+```
+chmod +x AndromedaDeployments.sh
+./AndromedaDeployments.sh
+```
 2. Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software.
 3. El sistema descargará las imágenes, configurará el entorno y desplegará los servicios seleccionados.
 
