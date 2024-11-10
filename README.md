@@ -81,47 +81,47 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
    sudo ./AndromedaDeployments.sh
    ```
 
-2. Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software.
+2.**Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software**.
 
 ## 📋 Opciones Disponibles
 
 **Tipos de Entorno**:
 
-- Contenedor LXC
+- Contenedor LXC.
 
-- Máquina Virtual (VM)
+- Máquina Virtual (VM).
 
 **Sistemas Operativos Soportados**:
 Para LXC:
-  - Ubuntu 22.04
-  - Debian 12
-  - Fedora 38
+  - Ubuntu 22.04.
+  - Debian 12.
+  - Fedora 38.
 
 Para VM:
-  - Ubuntu 22.04
-  - Fedora Cloud 41
-  - Debian 12
+  - Ubuntu 22.04.
+  - Fedora Cloud 41.
+  - Debian 12.
   - ISO Personalizada: Proporciona una URL para una ISO personalizada.
     
 **Paquetes de Software Disponibles**:
-  - MariaDB
-  - PostgreSQL
-  - Docker
-  - MongoDB en Docker
-  - LAMP (Linux, Apache, MariaDB/MySQL, PHP)
-  - LEMP (Linux, Nginx, MariaDB/MySQL, PHP
+  - MariaDB.
+  - PostgreSQL.
+  - Docker.
+  - MongoDB en Docker.
+  - LAMP (Linux, Apache, MariaDB/MySQL, PHP).
+  - LEMP (Linux, Nginx, MariaDB/MySQL, PHP.
 
 **Configuraciones de Hardware**:
--*Minimalista*: 1 núcleo, 2 GB de RAM
+-*Minimalista*: 1 núcleo, 2 GB de RAM.
 
--*Media*: 3 núcleos, 4 GB de RAM
+-*Media*: 3 núcleos, 4 GB de RAM.
 
--*Avanzada*: 4 núcleos, 8 GB de RAM
+-*Avanzada*: 4 núcleos, 8 GB de RAM.
 
 **Tamaños de Disco**:
--*Predeterminado*: 15 GB
+-*Predeterminado*: 15 GB.
 
--*Personalizado*: Especifica entre 15 GB y 80 GB
+-*Personalizado*: Especifica entre 15 GB y 80 GB.
 
 ## 🔔 Mensajes Informativos
 
