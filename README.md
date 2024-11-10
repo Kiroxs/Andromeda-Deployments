@@ -57,23 +57,19 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
    ```bash
    git clone https://github.com/Kiroxs/Andromeda-Deployments.git
    ```
-   
 2. **Clonar el repositorio**:
    ```bash
    cd Andromeda-Deployments
-   ```
-   
+   ``` 
 3.**Dar permisos de ejecución al script**:
    ```bash
    chmod +x AndromedaDeployments.sh
    ```
-
 4.**(Opcional) Instalar dependencias necesarias**:
    ```bash
    apt-get update && apt-get install -y dialog
    ```
 
-   
 ## 🚀 Uso
 
 1.**Ejecutar el script con permisos de root**:
@@ -112,6 +108,7 @@ Para VM:
   - LEMP (Linux, Nginx, MariaDB/MySQL, PHP.
 
 **Configuraciones de Hardware**:
+
 -*Minimalista*: 1 núcleo, 2 GB de RAM.
 
 -*Media*: 3 núcleos, 4 GB de RAM.
