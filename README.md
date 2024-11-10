@@ -71,7 +71,7 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
    ```
 
    
-##🚀 Uso
+## 🚀 Uso
 
 1.**Ejecutar el script con permisos de root**:
    ```bash
@@ -80,15 +80,15 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
 
 2. Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software.
 
-##📋 Opciones Disponibles
+## 📋 Opciones Disponibles
 
-##Tipos de Entorno##:
+**Tipos de Entorno**:
 
 - Contenedor LXC
 
 - Máquina Virtual (VM)
 
-##Sistemas Operativos Soportados##:
+**Sistemas Operativos Soportados**:
 Para LXC:
   - Ubuntu 22.04
   - Debian 12
