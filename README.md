@@ -57,27 +57,30 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
    ```bash
    git clone https://github.com/Kiroxs/Andromeda-Deployments.git
    ```
+   
 2. **Clonar el repositorio**:
    ```bash
    cd Andromeda-Deployments
-   ``` 
-3.**Dar permisos de ejecución al script**:
+   ```
+   
+3. **Dar permisos de ejecución al script**:
    ```bash
    chmod +x AndromedaDeployments.sh
    ```
-4.**(Opcional) Instalar dependencias necesarias**:
+
+4. **(Opcional) Instalar dependencias necesarias**:
    ```bash
    apt-get update && apt-get install -y dialog
    ```
 
 ## 🚀 Uso
 
-1.**Ejecutar el script con permisos de root**:
+1. **Ejecutar el script con permisos de root**:
    ```bash
    sudo ./AndromedaDeployments.sh
    ```
 
-2.**Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software**.
+2. **Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software**.
 
 ## 📋 Opciones Disponibles
 
