@@ -116,6 +116,7 @@ Para VM:
 -*Avanzada*: 4 núcleos, 8 GB de RAM.
 
 **Tamaños de Disco**:
+
 -*Predeterminado*: 15 GB.
 
 -*Personalizado*: Especifica entre 15 GB y 80 GB.
