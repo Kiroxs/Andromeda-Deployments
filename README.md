@@ -14,18 +14,8 @@
   - [Configuraciones de Hardware](#configuraciones-de-hardware)
   - [Tamaños de Disco](#tamaños-de-disco)
 - [🔔 Mensajes Informativos](#-mensajes-informativos)
-- [🐞 Solución de Problemas](#-solución-de-problemas)
-- [🙋 Preguntas Frecuentes (FAQ)](#-preguntas-frecuentes-faq)
 - [🤓 Tips para Proxmox VE](#-tips-para-proxmox-ve)
-- [🤝 Contribuciones](#-contribuciones)
-- [📄 Licencia](#-licencia)
-- [📞 Contacto](#-contacto)
-- [🧪 Pruebas y Compatibilidad](#-pruebas-y-compatibilidad)
 - [🌐 Recursos Adicionales](#-recursos-adicionales)
-- [🎯 Roadmap](#-roadmap)
-- [🔑 Seguridad](#-seguridad)
-- [🖼️ Capturas de Pantalla](#️-capturas-de-pantalla)
-- [🎥 Vídeo Tutorial](#-vídeo-tutorial)
 
 ---
 
@@ -65,28 +55,29 @@ Andromeda-Deployments es un script diseñado para automatizar el despliegue de e
 1. **Clonar el repositorio**:
 
    ```bash
-     git clone https://github.com/Kiroxs/Andromeda-Deployments.git
+   git clone https://github.com/Kiroxs/Andromeda-Deployments.git
    ```
 2. **Clonar el repositorio**:
    ```bash
-    cd Andromeda-Deployments
+   cd Andromeda-Deployments
    ```
 3.**Dar permisos de ejecución al script**:
-  ```bash
-    chmod +x AndromedaDeployments.sh
+   ```bash
+   chmod +x AndromedaDeployments.sh
    ```
 4.**(Opcional) Instalar dependencias necesarias**:
    ```bash
-    apt-get update && apt-get install -y dialog
+   apt-get update && apt-get install -y dialog
    ```
 
    
 ##🚀 Uso
 
 1.**Ejecutar el script con permisos de root**:
-  ```bash
-    sudo ./AndromedaDeployments.sh
+   ```bash
+   sudo ./AndromedaDeployments.sh
    ```
+
 2. Seguir las indicaciones en el menú interactivo (`dialog`) para seleccionar el tipo de entorno (LXC o VM), sistema operativo, recursos de hardware y software.
 
 ##📋 Opciones Disponibles
